@@ -1,0 +1,128 @@
+.cart-container{
+    border-radius: 1rem;
+    border: 2px solid lightgray;
+}
+
+.want-to-cook .heading{
+    font-size: large;
+    font-weight: 600;
+    margin: 1rem 0;
+}
+
+
+.cart-container thead{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding: 0.10rem;
+    background-color: aliceblue;
+    box-shadow: 0px 5px 5px rgb(230, 230, 230);
+    margin-bottom: 6px;
+
+}
+
+.cart-container tbody{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 0.5rem;
+    
+}
+
+
+tbody tr{
+    background-color: rgb(245, 245, 245);
+    box-shadow: 0px 5px 5px lightgray;
+    border-radius: 0 0 5px 5px;
+}
+
+
+
+.cart-container table{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.currently-cooking{
+    margin-bottom: 0.75rem;
+}
+
+.currently-cooking .heading{
+    margin: 1rem 0;
+    font-size: large;
+    font-weight: 600;
+}
+
+
+.cart-container thead .sl{
+    width: 10%;
+}
+.cart-container thead .name{
+    width: 40%;
+}
+.cart-container thead .time{
+    width: 10%;
+}
+.cart-container thead .calories{
+    width: 15%;
+}
+.cart-container thead .button {
+    width: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin:  0 auto;
+}
+
+.cart-container tbody .sl{
+    width: 10%;
+}
+.cart-container tbody .name{
+    width: 40%;
+}
+.cart-container tbody .time{
+    width: 10%;
+}
+.cart-container tbody .calories{
+    width: 15%;
+}
+
+.cart-container tbody .button button{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin:  0 auto;
+}
+
+
+
+.btn-preparing{
+    background-color: #0BE58A;
+    padding: 5px;
+    border: 2px solid #0BE58A;
+    border-radius: 50px;
+}
+
+
+.btn-preparing:hover{
+    background-color: black;
+    color:#0BE58A;
+    padding: 5px;
+    border: 2px solid #0BE58A;
+    border-radius: 50px;
+}
+
+
+.totals-container{
+    margin: 2rem 0 ;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}

@@ -1,0 +1,87 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Tomato Sauce for Pasta",
+      "short_description": "A rich and flavorful tomato sauce perfect for pasta.",
+      "recipe_image": "https://i.ibb.co/Kxfvngx/Tomato-sauce-for-pasta.jpg",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom"
+      ],
+      "preparing_time": 30,
+      "calories": 320 
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Tomato Bruschetta",
+      "short_description": "A fresh and flavorful appetizer with tomatoes, basil, and garlic on toasted bread.",
+      "recipe_image": "https://i.ibb.co/PwfgGKG/Tomato-bruschetta.jpg",
+      "ingredients": [
+        "300 g pasta",
+        "150 g cherry tomatoes",
+        "100 g spinach",
+        "50 g parmesan cheese"
+      ],
+      "preparing_time": 25,
+      "calories": 280
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Mozzarella Chicken Wrapped in Parma Ham",
+      "short_description": "Tender chicken wrapped in Parma ham and stuffed with creamy mozzarella.",
+      "recipe_image": "https://i.ibb.co/xmv0dXK/Mozzarella-chicken-wrapped-in-Parma-Ham.jpg",
+      "ingredients": [
+        "500 g beef",
+        "200 g bell peppers",
+        "100 g broccoli",
+        "50 ml soy sauce"
+      ],
+      "preparing_time": 20,
+      "calories": 400
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Pancakes",
+      "short_description": "Light and fluffy pancakes, perfect for a delicious breakfast.",
+      "recipe_image": "https://i.ibb.co/DWRcp43/pancakes.jpg",
+      "ingredients": [
+        "2 slices bread",
+        "1 avocado",
+        "10 g sesame seeds",
+        "5 ml olive oil"
+      ],
+      "preparing_time": 10,
+      "calories": 250
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Pork Cutlet",
+      "short_description": "Crispy and tender pork cutlet, a savory and satisfying dish.",
+      "recipe_image": "https://i.ibb.co/Vmz8d10/pork-cutlet.jpg",
+      "ingredients": [
+        "200 g salmon",
+        "100 g mixed greens",
+        "50 g cherry tomatoes",
+        "30 g feta cheese"
+      ],
+      "preparing_time": 15,
+      "calories": 350
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Applel Galette",
+      "short_description": "A rustic apple galette with a flaky crust and sweet apple filling.",
+      "recipe_image": "https://i.ibb.co/bXkLvYs/applel-galette.jpg",
+      "ingredients": [
+        "200 g flour",
+        "100 g cocoa powder",
+        "200 g sugar",
+        "3 eggs"
+      ],
+      "preparing_time": 45,
+      "calories": 450
+    }
+  ]
+  
